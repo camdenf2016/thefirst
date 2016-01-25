@@ -1,2 +1,0 @@
-# thefirst
-My first GitHub
